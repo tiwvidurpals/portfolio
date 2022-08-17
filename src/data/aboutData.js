@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
     description1: "I'm a Performance-driven Web Developer and Designer based in Calgary, Alberta, Canada.",
-    description2: "Graduated with a Bachelor of Computer Applications from Bangalore University, a renowned university of South Asia, complemented by a Project Management Diploma from the University of Winnipeg (PACE).",
+    description2: "Graduated with a Bachelor's degree in Computer Applications, experienced in working with diverse Web projects, I am a positive, enthusiastic problem solver able to develop amazing websites.",
     image: 1
 }
