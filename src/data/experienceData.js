@@ -13,7 +13,7 @@ export const experienceData = [
         jobtitle: 'Web Designer/Market Analyst',
         description: 'Developed layout and designed textual and graphical content including product illustrations for Shopify.',
         startYear: '2020',
-        endYear: '2020'
+        endYear: '2021'
     },
     {
         id: 2,
