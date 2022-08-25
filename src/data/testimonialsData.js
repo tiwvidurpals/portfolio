@@ -16,6 +16,6 @@ export const testimonialsData = [
         text: "",
         image: boy2
     },
-   
+
 ]
 
