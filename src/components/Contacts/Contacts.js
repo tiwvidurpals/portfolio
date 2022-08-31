@@ -153,11 +153,11 @@ function Contacts() {
                     setEmail('');
                     setMessage('');
                     setOpen(false);
-                   
+
                 } catch (e) {
                     alert('Error')
                 }
-                
+
             } else {
                 setErrMsg('Invalid email');
                 setOpen(true);
@@ -178,7 +178,8 @@ function Contacts() {
                 <h1 style={{ color: theme.primary }}>Contacts</h1>
                 <div className='contacts-body'>
                     <div className='contacts-form'>
-                        <form onSubmit={handleContactForm}>
+                        <form onSubmit={handleContactForm}
+                            action="https://formsubmit.co/tiwvidurpals@gmail.com" method="POST">
                             <div className='input-container'>
                                 <label htmlFor='Name' className={classes.label}>
                                     Name
