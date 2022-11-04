@@ -178,8 +178,7 @@ function Contacts() {
                 <h1 style={{ color: theme.primary }}>Contacts</h1>
                 <div className='contacts-body'>
                     <div className='contacts-form'>
-                        <form onSubmit={handleContactForm}
-                            action="https://formsubmit.co/tiwvidurpals@gmail.com" method="POST">
+                        <form action="https://formspree.io/f/myyvzawd" method="POST" onSubmit={handleContactForm}>
                             <div className='input-container'>
                                 <label htmlFor='Name' className={classes.label}>
                                     Name
