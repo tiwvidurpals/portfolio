@@ -19,7 +19,7 @@ export const experienceData = [
   },
   {
     id: 2,
-    company: "EKbana Solutions,Nepal",
+    company: "EKbana Solutions, Nepal",
     jobtitle: "Web Developer",
     startYear: "2019",
     description:
